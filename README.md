@@ -34,43 +34,43 @@ The IPL is one of the biggest T20 cricket leagues in the world. This project ana
 
 1️) Exploratory Data Analysis (EDA)
 
-Data cleaning and preprocessing
+> Data cleaning and preprocessing
 
-Handling missing values
+> Handling missing values
 
-Data transformation
+> Data transformation
 
-Feature extraction
+> Feature extraction
 
 2️) Statistical Insights
 
-Average runs per match
+> Average runs per match
 
-Win percentage of each team
+> Win percentage of each team
 
-Toss decision impact
+> Toss decision impact
 
-Top-performing teams
+> Top-performing teams
 
 3️) Data Visualization
 
-Clear and non-cluttered graphs including:
+> Clear and non-cluttered graphs including:
 
-Bar charts
+> Bar charts
 
-Line graphs
+> Line graphs
 
-Pie charts
+> Pie charts
 
-Match outcome comparison graphs
+> Match outcome comparison graphs
 
 4️) Match Outcome Predictability
 
-Analyzing historical trends
+> Analyzing historical trends
 
-Identifying key influencing factors
+> Identifying key influencing factors
 
-Basic predictive modeling
+> Basic predictive modeling
 
 ->Technologies Used :
 
@@ -89,10 +89,10 @@ Basic predictive modeling
 
 -> Sample Insights
 
-Teams batting first tend to win more often under certain conditions.
+* Teams batting first tend to win more often under certain conditions.
 
-Some venues favor high-scoring matches.
+* Some venues favor high-scoring matches.
 
-Toss decision has measurable influence on match outcome.
+* Toss decision has measurable influence on match outcome.
 
-Average runs per match varies across seasons.
+* Average runs per match varies across seasons.
