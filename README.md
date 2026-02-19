@@ -1,36 +1,38 @@
 # ETL-Project-Pandas-MySQL-
--> IPL Data Analysis & Match Outcome Predictability
 
-This project focuses on analyzing Indian Premier League (IPL) match data and building insights through visual dashboards and predictive analysis.
+->IPL Data Analysis & Match Outcome Predictability
 
-The goal of this project is to:
+  This project focuses on analyzing Indian Premier League (IPL) match data and building insights through visual dashboards and predictive analysis.
 
-Perform Exploratory Data Analysis (EDA)
+  The goal of this project is to:
 
-Generate meaningful visualizations
+* Perform Exploratory Data Analysis (EDA)
 
-Analyze team and player performance
+* Generate meaningful visualizations
 
-Predict match outcomes based on historical data
+* Analyze team and player performance
 
-📌 Project Overview
+* Predict match outcomes based on historical data
+
+-> Project Overview
 
 The IPL is one of the biggest T20 cricket leagues in the world. This project analyzes IPL match datasets to uncover patterns such as:
 
-Average runs per match
+* Average runs per match
 
-Toss impact on match results
+* Toss impact on match results
 
-Team performance trends
+* Team performance trends
 
-Venue influence
+* Venue influence
 
-Match outcome predictability
+* Match outcome predictability
 
-The analysis is implemented using Python and visualized through dashboards.
+* The analysis is implemented using Python and visualized through dashboards.
 
-📊 Features & Analysis Performed
-1️⃣ Exploratory Data Analysis (EDA)
+-> Features & Analysis Performed
+
+1️) Exploratory Data Analysis (EDA)
 
 Data cleaning and preprocessing
 
@@ -40,7 +42,7 @@ Data transformation
 
 Feature extraction
 
-2️⃣ Statistical Insights
+2️) Statistical Insights
 
 Average runs per match
 
@@ -50,7 +52,7 @@ Toss decision impact
 
 Top-performing teams
 
-3️⃣ Data Visualization
+3️) Data Visualization
 
 Clear and non-cluttered graphs including:
 
@@ -62,7 +64,7 @@ Pie charts
 
 Match outcome comparison graphs
 
-4️⃣ Match Outcome Predictability
+4️) Match Outcome Predictability
 
 Analyzing historical trends
 
@@ -70,28 +72,22 @@ Identifying key influencing factors
 
 Basic predictive modeling
 
-🛠️ Technologies Used
+->Technologies Used :
 
-Python
+* Python
 
-Pandas
+* Pandas
 
-NumPy
+* NumPy
 
-Matplotlib
+* Matplotlib
 
-Jupyter Notebook
+* Jupyter Notebook
 
-📁 Project Structure
-
-IPL/
-│
-├── IPL (1).html        # Exported notebook
-├── dataset.csv         # IPL dataset
-├── README.md           # Project documentation
+* MySQL
 
 
-📈 Sample Insights
+-> Sample Insights
 
 Teams batting first tend to win more often under certain conditions.
 
