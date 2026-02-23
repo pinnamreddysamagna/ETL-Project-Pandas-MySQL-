@@ -1,6 +1,6 @@
 # 🏏 IPL Data Analysis & Match Outcome Predictability
 
-## This project focuses on analyzing Indian Premier League (IPL) match data and building insights through visual dashboards and predictive analysis.
+This project focuses on analyzing Indian Premier League (IPL) match data and building insights through visual dashboards and predictive analysis.
 
 The goal of this project is to:
 
