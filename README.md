@@ -1,6 +1,6 @@
-🏏 IPL Data Analysis & Match Outcome Predictability
+# 🏏 IPL Data Analysis & Match Outcome Predictability
 
-This project focuses on analyzing Indian Premier League (IPL) match data and building insights through visual dashboards and predictive analysis.
+## This project focuses on analyzing Indian Premier League (IPL) match data and building insights through visual dashboards and predictive analysis.
 
 The goal of this project is to:
 
@@ -14,7 +14,7 @@ The goal of this project is to:
 
 _____________________________________________________________________________________________________________________________________________________________________________________________________________________
 
-📌 Project Overview
+## 📌 Project Overview
 
 The IPL is one of the biggest T20 cricket leagues in the world. This project analyzes IPL match datasets to uncover patterns such as:
 
@@ -32,7 +32,7 @@ The analysis is implemented using Python and visualized through dashboards.
 
 _____________________________________________________________________________________________________________________________________________________________________________________________________________________
 
-📊 Features & Analysis Performed
+## 📊 Features & Analysis Performed
 
 1️⃣ Exploratory Data Analysis (EDA)
 
@@ -76,7 +76,7 @@ ________________________________________________________________________________
 
 _____________________________________________________________________________________________________________________________________________________________________________________________________________________
 
-🛠️ Technologies Used
+## 🛠️ Technologies Used
 
 * Python
 
@@ -92,16 +92,7 @@ ________________________________________________________________________________
 
 _____________________________________________________________________________________________________________________________________________________________________________________________________________________
 
-📁 Project Structure
-IPL/
-│
-├── IPL (1).py          # Exported notebook
-├── dataset.csv         # IPL dataset
-├── README.md           # Project documentation
-
-_____________________________________________________________________________________________________________________________________________________________________________________________________________________
-
-📈 Sample Insights
+## 📈 Sample Insights
 
 * Teams batting first tend to win more often under certain conditions.
 
