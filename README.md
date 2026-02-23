@@ -101,8 +101,19 @@ ________________________________________________________________________________
 
 * Average runs per match varies across seasons.
 
+_____________________________________________________________________________________________________________________________________________________________________________________________________________________
 
+🎯 Learning Outcomes
 
+* Applied real-world sports analytics
+
+* Strengthened data storytelling ability
+
+* Improved visualization clarity for dashboards
+
+* Understood analytical factors influencing predictive modeling
+
+* Gained hands-on experience with structured analytical workflow
 
 
 
