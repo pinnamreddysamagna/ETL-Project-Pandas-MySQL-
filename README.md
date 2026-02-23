@@ -1,10 +1,8 @@
-# ETL-Project-Pandas-MySQL-
+🏏 IPL Data Analysis & Match Outcome Predictability
 
-->IPL Data Analysis & Match Outcome Predictability
+This project focuses on analyzing Indian Premier League (IPL) match data and building insights through visual dashboards and predictive analysis.
 
-  This project focuses on analyzing Indian Premier League (IPL) match data and building insights through visual dashboards and predictive analysis.
-
-  The goal of this project is to:
+The goal of this project is to:
 
 * Perform Exploratory Data Analysis (EDA)
 
@@ -13,6 +11,8 @@
 * Analyze team and player performance
 
 * Predict match outcomes based on historical data
+
+_____________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 -> Project Overview
 
