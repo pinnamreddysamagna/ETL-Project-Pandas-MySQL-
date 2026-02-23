@@ -14,7 +14,7 @@ The goal of this project is to:
 
 _____________________________________________________________________________________________________________________________________________________________________________________________________________________
 
--> Project Overview
+📌 Project Overview
 
 The IPL is one of the biggest T20 cricket leagues in the world. This project analyzes IPL match datasets to uncover patterns such as:
 
@@ -28,51 +28,55 @@ The IPL is one of the biggest T20 cricket leagues in the world. This project ana
 
 * Match outcome predictability
 
-* The analysis is implemented using Python and visualized through dashboards.
+The analysis is implemented using Python and visualized through dashboards.
 
--> Features & Analysis Performed
+_____________________________________________________________________________________________________________________________________________________________________________________________________________________
 
-1️) Exploratory Data Analysis (EDA)
+📊 Features & Analysis Performed
 
-> Data cleaning and preprocessing
+1️⃣ Exploratory Data Analysis (EDA)
 
-> Handling missing values
+* Data cleaning and preprocessing
 
-> Data transformation
+* Handling missing values
 
-> Feature extraction
+* Data transformation
 
-2️) Statistical Insights
+* Feature extraction
 
-> Average runs per match
+2️⃣ Statistical Insights
 
-> Win percentage of each team
+* Average runs per match
 
-> Toss decision impact
+* Win percentage of each team
 
-> Top-performing teams
+* Toss decision impact
 
-3️) Data Visualization
+* Top-performing teams
 
-> Clear and non-cluttered graphs including:
+3️⃣ Data Visualization
 
-> Bar charts
+* Clear and non-cluttered graphs including:
 
-> Line graphs
+* Bar charts
 
-> Pie charts
+* Line graphs
 
-> Match outcome comparison graphs
+* Pie charts
 
-4️) Match Outcome Predictability
+* Match outcome comparison graphs
 
-> Analyzing historical trends
+4️⃣ Match Outcome Predictability
 
-> Identifying key influencing factors
+* Analyzing historical trends
 
-> Basic predictive modeling
+* Identifying key influencing factors
 
-->Technologies Used :
+* Basic predictive modeling
+
+_____________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+🛠️ Technologies Used
 
 * Python
 
@@ -86,8 +90,18 @@ The IPL is one of the biggest T20 cricket leagues in the world. This project ana
 
 * MySQL
 
+_____________________________________________________________________________________________________________________________________________________________________________________________________________________
 
--> Sample Insights
+📁 Project Structure
+IPL/
+│
+├── IPL (1).py          # Exported notebook
+├── dataset.csv         # IPL dataset
+├── README.md           # Project documentation
+
+_____________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+📈 Sample Insights
 
 * Teams batting first tend to win more often under certain conditions.
 
@@ -96,3 +110,12 @@ The IPL is one of the biggest T20 cricket leagues in the world. This project ana
 * Toss decision has measurable influence on match outcome.
 
 * Average runs per match varies across seasons.
+
+_____________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+
+
+
+
+
+
