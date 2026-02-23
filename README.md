@@ -44,7 +44,7 @@ ________________________________________________________________________________
 
 * Feature extraction
 
-2️⃣ Statistical Insights
+2️⃣ Performance Analysis
 
 * Average runs per match
 
